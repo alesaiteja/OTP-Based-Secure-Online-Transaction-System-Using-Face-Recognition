@@ -3,5 +3,5 @@ This Project orchestrates a secure transaction process, employing OTP verificati
 details align, the transaction proceeds. Transaction metadata, including sender and receiver information, amount, and timestamp, are logged for record-keeping.
 Functionalities include OTP generation and verification, real-time facial recognition, CSV data parsing, and transaction logging. This script provides a comprehensive solution for secure transactions, enhancing security and trust in digital financial transactions.
 
-#Keywords:
+# Keywords:
 OTP verification, Facial recognition, Authentication, Sender details, Receiver details, CSV file handling, Transaction logging, Computer vision, Data integrity.
